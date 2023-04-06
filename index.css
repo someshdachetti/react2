@@ -1,0 +1,54 @@
+h1 {
+  color: #0f172a;
+  font-family: Roboto;
+  font-size: 18px;
+}
+.bg {
+  height: 64px;
+  width: 455px;
+}
+.blue {
+  background-color: #0b69ff;
+  height: 64px;
+  width: 455px;
+}
+img {
+  height: 30px;
+  width: 30px;
+  padding-top: 15px;
+  padding-left: 10px;
+}
+.heading {
+  color: white;
+  text-align: right;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.x {
+  display: flex;
+  justify-content: flex-start;
+}
+.green {
+  background-color: #2dca73;
+  height: 64px;
+  width: 455px;
+  margin: 15px;
+}
+.yellow {
+  background-color: #ffb800;
+  height: 64px;
+  width: 455px;
+  margin: 15px;
+}
+.red {
+  background-color: #ff0b37;
+  height: 64px;
+  width: 455px;
+  margin: 15px;
+}
+.xx {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
