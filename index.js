@@ -17,14 +17,14 @@ const element = (
       <div className="blue">
         <div className="x">
          <Notification img ="https://assets.ccbp.in/frontend/react-js/primary-icon-img.png"/>
-          <Notifaction Text = 'Information Message'/>
+          <Notification Text = 'Information Message'/>
         </div>
       </div>
 
       <div className="green">
         <div className="x">
         <Notification img="https://assets.ccbp.in/frontend/react-js/success-icon-img.png" />
-         <Notifaction text='Success message'/>
+         <Notification text='Success message'/>
         </div>
       </div>
 
@@ -37,7 +37,7 @@ const element = (
 
       <div className="red">
         <div className="x">
-           <Notifaction img ="https://assets.ccbp.in/frontend/react-js/danger-icon-img.png" />
+           <Notification img ="https://assets.ccbp.in/frontend/react-js/danger-icon-img.png" />
           <Notification text ='Danger message'/>
         </div>
       </div>
